@@ -63,8 +63,7 @@ NAME:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 TITLE:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-ADDRESS:
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ADDRESS: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 _ _ _ _ _ _ _ _ _ _ , _ _ _ _ _ _ _ _ _ _   _ _ _ _ _ _ 
 
 ATTN:  CHIEF EXECUTIVE OFFICER
@@ -75,13 +74,10 @@ EMAIL:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 **CONSULTANT:**
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-(PRINT NAME)
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-(SIGNATURE)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (PRINT NAME)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (SIGNATURE)
 
-ADDRESS:
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ADDRESS: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 _ _ _ _ _ _ _ _ _ _ , _ _ _ _ _ _ _ _ _ _   _ _ _ _ _ _ 
 
 FAX:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -108,30 +104,17 @@ CHECK APPLICABLE PAYMENT TERMS:
 
 [  ] CONSULTANT SHALL BE PAID $_ _ _ _ _ _ _ _ _ _ _ _  UPON THE EXECUTION OF THIS AGREEMENT AND $_ _ _ _ _ _ _ _ _ _ _ _  UPON COMPLETION OF THE SERVICES SPECIFIED ON EXHIBIT A TO THIS AGREEMENT.
 
-[  ] THE COMPANY WILL RECOMMEND THAT THE BOARD GRANT A NON-QUALIFIED OPTION TO PURCHASE _ _ _ _ _ _ _  SHARES OF THE COMPANY’S COMMON STOCK, AT AN EXERCISE PRICE EQUAL TO THE FAIR MARKET VALUE (AS DETERMINED BY THE COMPANY’S BOARD OF DIRECTORS) ON THE DATE OF GRANT, AND WHICH WILL VEST AND BECOME EXERCISABLE AS FOLLOWS:
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+[  ] THE COMPANY WILL RECOMMEND THAT THE BOARD GRANT A NON-QUALIFIED OPTION TO PURCHASE _ _ _ _ _ _ _  SHARES OF THE COMPANY’S COMMON STOCK, AT AN EXERCISE PRICE EQUAL TO THE FAIR MARKET VALUE (AS DETERMINED BY THE COMPANY’S BOARD OF DIRECTORS) ON THE DATE OF GRANT, AND WHICH WILL VEST AND BECOME EXERCISABLE AS FOLLOWS: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-[  ] CONSULTANT IS AUTHORIZED TO INCUR THE FOLLOWING EXPENSES:
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+[  ] CONSULTANT IS AUTHORIZED TO INCUR THE FOLLOWING EXPENSES: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-[  ] OTHER:
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+[  ] OTHER: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
  
 **EXHIBIT C: ALLOWABLE EXPENSES**
 
 **EXHIBIT D: CONFIDENTIAL INFORMATION AND INVENTION ASSIGNMENT AGREEMENT**
 
 **EXHIBIT E: LIST OF COMPANIES EXCLUDED UNDER SECTION 7**
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 _ _ _  NO CONFLICTS
 
