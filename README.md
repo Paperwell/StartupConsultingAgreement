@@ -4,6 +4,8 @@ This legal document comes from the Start-Up Forms Library provided by Orrick's E
 
 - - - - - 
 
-If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our Gmail account: paperwellcare.  We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  Thank you!
+If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  
+
+We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  Thank you!
 
 [Paperwell.com]: http://www.paperwell.com
